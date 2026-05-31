@@ -51,4 +51,18 @@ The objective is to transform raw sales data into actionable business insights t
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
+
+## 🚀 Use Case
+
+This SQL script is useful for data analysts, database administrators, and business decision-makers to track sales trends, evaluate product performance, analyze customer behavior, and identify profit-draining areas using advanced query optimization.
+
+## 📎 Project Category
+
+* Portfolio Project
+* Data Analyst Project
+* Database Analysis & Business Intelligence Project
+
+## ⭐ One-Line Summary
+
+Transforming raw transactional data into deep business insights using advanced Microsoft SQL Server queries.
   
