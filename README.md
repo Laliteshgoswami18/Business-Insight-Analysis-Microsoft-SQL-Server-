@@ -1,4 +1,4 @@
-# 📊 SQL Sales Performance Analysis Project
+# 📊 Customer & Sales Insights 
 
 ## 📌 Project Overview
 
